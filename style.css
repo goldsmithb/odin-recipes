@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgba(42, 177, 255, 0.637);
+    font-family: Georgia, serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.text {
+    background-color: rgba(190, 133, 133, 0.363);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 18px;
+}
+
+li:hover {
+    font-size: 45px;
+}
