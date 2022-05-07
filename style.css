@@ -10,9 +10,14 @@ h2 {
     font-size: 35px;
 }
 
+em {
+    color:rgb(255, 255, 255);
+}
+
 .text {
     background-color: rgba(190, 133, 133, 0.363);
     color: rgb(0, 0, 0);
+    font-family: "Varela Round", Georgia, serif;
     text-align: center;
     font-size: 18px;
 }
@@ -22,7 +27,7 @@ h2 {
 }
 
 li:hover {
-    font-size: 45px;
+    font-size: 35px;
 }
 
 #top-recipes-list {
