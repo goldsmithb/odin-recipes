@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
 h1 {
     background-color: rgba(42, 177, 255, 0.637);
-    font-family: Georgia, serif;
+    font-family: "Varela Round", Georgia, serif;
     font-size: 50px;
 }
 
@@ -15,6 +17,14 @@ h2 {
     font-size: 18px;
 }
 
+.text.important {
+    font-size: 28px;
+}
+
 li:hover {
     font-size: 45px;
+}
+
+#top-recipes-list {
+    
 }
